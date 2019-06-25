@@ -14,4 +14,5 @@ washington.csv
 
 ### Credits
 Used numpy and pandas.
+Used python documentation
 
