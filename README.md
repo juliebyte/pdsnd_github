@@ -6,6 +6,7 @@ Bikeshare Project
 
 ### Description
 Analyzes bikeshare data
+Uses python to process the data.
 
 ### Files used
 chicago.csv
