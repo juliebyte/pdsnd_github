@@ -10,6 +10,7 @@ Analyzes bikeshare data
 ### Files used
 chicago.csv
 new_york.city.csv
+washington.csv
 
 ### Credits
 Used numpy and pandas.
